@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/the-eternal-abyss-spam6-22t6is2dfiw8i6.lua"))()
