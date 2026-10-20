@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-hzs40zlkggf9hk.lua"))()
