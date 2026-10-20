@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/new-map-fallen-survival-spam4-l4hu8mkzgxhb1g.lua"))()
