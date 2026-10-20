@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/it-wants-in-horror-spam2-33rn1bglguarkh.lua"))()
