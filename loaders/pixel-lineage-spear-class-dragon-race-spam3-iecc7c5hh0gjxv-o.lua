@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/pixel-lineage-spear-class-dragon-race-spam3-iecc7c5hh0gjxv.lua"))()
