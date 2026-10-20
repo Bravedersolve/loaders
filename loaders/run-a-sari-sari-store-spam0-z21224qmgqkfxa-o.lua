@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/run-a-sari-sari-store-spam0-z21224qmgqkfxa.lua"))()
