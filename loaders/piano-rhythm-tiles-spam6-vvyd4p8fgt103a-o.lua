@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/piano-rhythm-tiles-spam6-vvyd4p8fgt103a.lua"))()
