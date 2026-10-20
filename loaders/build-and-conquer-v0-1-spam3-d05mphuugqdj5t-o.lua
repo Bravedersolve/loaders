@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-and-conquer-v0-1-spam3-d05mphuugqdj5t.lua"))()
