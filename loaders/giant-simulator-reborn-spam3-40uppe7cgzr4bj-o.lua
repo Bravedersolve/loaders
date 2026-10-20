@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/giant-simulator-reborn-spam3-40uppe7cgzr4bj.lua"))()
