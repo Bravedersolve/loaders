@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/sell-fries-anomaly-spam0-jno4o6c5i8zoki.lua"))()
