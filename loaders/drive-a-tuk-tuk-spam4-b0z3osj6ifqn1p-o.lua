@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/drive-a-tuk-tuk-spam4-b0z3osj6ifqn1p.lua"))()
