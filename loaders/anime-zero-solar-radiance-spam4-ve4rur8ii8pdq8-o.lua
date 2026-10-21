@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/anime-zero-solar-radiance-spam4-ve4rur8ii8pdq8.lua"))()
