@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam2-o895govzjpbt75.lua"))()
