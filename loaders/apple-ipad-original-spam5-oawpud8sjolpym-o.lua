@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/apple-ipad-original-spam5-oawpud8sjolpym.lua"))()
