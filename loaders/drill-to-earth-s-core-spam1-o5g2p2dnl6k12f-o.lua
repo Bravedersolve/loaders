@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/drill-to-earth-s-core-spam1-o5g2p2dnl6k12f.lua"))()
