@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/build-a-boat-for-treasure-spam2-mknof13am77tlw.lua"))()
