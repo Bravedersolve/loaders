@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/1-pickaxe-swing-for-eggs-spam7-s45yxkqvmkcjrq.lua"))()
