@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/ch2-chop-a-forest-spam4-5fqfza77m6qfd3.lua"))()
