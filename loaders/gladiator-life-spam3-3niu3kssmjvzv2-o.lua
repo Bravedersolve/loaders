@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/gladiator-life-spam3-3niu3kssmjvzv2.lua"))()
